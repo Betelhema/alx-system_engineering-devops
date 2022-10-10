@@ -1,3 +1,4 @@
 #!/bin/bash
-Printf "best school/" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+Printf " best school " > " \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) "
+
 
